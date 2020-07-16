@@ -6,3 +6,5 @@ print(empty_list)
 print(weekdays)
 
 print(type(weekdays))
+
+print(len(weekdays)) #printing the length of list
